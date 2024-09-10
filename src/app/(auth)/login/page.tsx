@@ -1,9 +1,9 @@
 const LoginPage = () => {
     return (
         <div>
-        <h1>Login</h1>
+            login page without auth prefix
         </div>
     );
-};
+}
 
-export default LoginPage;
+export default LoginPage
